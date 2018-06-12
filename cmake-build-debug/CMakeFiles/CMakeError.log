@@ -1,0 +1,19 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Laura/Documents/GitHub/declarations-definitions-2018-06-12-lauraenria/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_d46b7\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_d46b7.dir\build.make /nologo -L                  CMakeFiles\cmTC_d46b7.dir\build
+Building C object CMakeFiles/cmTC_d46b7.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MIB055~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @D:\AppData\Local\Temp\nmABDE.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_d46b7.exe
+	"C:\Program Files\JetBrains\CLion 2018.1.1\bin\cmake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d46b7.dir --manifests  -- C:\PROGRA~2\MIB055~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d46b7.dir\objects1.rsp @D:\AppData\Local\Temp\nmAC3C.tmp
+FINAL LINK: command "C:\PROGRA~2\MIB055~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d46b7.dir\objects1.rsp /out:cmTC_d46b7.exe /implib:cmTC_d46b7.lib /pdb:C:\Users\Laura\Documents\GitHub\declarations-definitions-2018-06-12-lauraenria\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_d46b7.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_d46b7.dir/intermediate.manifest CMakeFiles\cmTC_d46b7.dir/manifest.res" failed (exit code 1168) with the following output:
+LINK : fatal error LNK1168: cannot open cmTC_d46b7.exe for writing
+NMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2018.1.1\bin\cmake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+

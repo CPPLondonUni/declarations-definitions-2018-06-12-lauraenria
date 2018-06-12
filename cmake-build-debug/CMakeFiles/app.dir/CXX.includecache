@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Laura/Documents/GitHub/declarations-definitions-2018-06-12-lauraenria/main.cpp
+iostream
+-
+string
+-
+utility.h
+C:/Users/Laura/Documents/GitHub/declarations-definitions-2018-06-12-lauraenria/utility.h
+
+C:/Users/Laura/Documents/GitHub/declarations-definitions-2018-06-12-lauraenria/utility.cpp
+iostream
+-
+string
+-
+
+C:/Users/Laura/Documents/GitHub/declarations-definitions-2018-06-12-lauraenria/utility.h
+

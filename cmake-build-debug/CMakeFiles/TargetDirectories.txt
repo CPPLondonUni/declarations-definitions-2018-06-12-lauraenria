@@ -1,0 +1,3 @@
+C:/Users/Laura/Documents/GitHub/declarations-definitions-2018-06-12-lauraenria/cmake-build-debug/CMakeFiles/app.dir
+C:/Users/Laura/Documents/GitHub/declarations-definitions-2018-06-12-lauraenria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Laura/Documents/GitHub/declarations-definitions-2018-06-12-lauraenria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
